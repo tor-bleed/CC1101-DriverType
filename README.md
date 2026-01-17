@@ -9,8 +9,11 @@ GUI: Python application with intuitive controls and decoding tools
 Key features:
 
 ✔ Real-time RF parameter adjustment (frequency, modulation, TX power)
+
 ✔ Packet capture with signal quality metrics (RSSI/LQI)
+
 ✔ Advanced decoding (XOR, Base64, ROT13)
+
 Applications: IoT security auditing, interference diagnosis, telecommunications education.
 
 <img width="916" height="671" alt="gui1" src="https://github.com/user-attachments/assets/7f77a64c-f334-4989-bf7b-1e5986dcae77" />
