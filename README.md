@@ -1,5 +1,5 @@
 ## CC1101-DriverType
-#Integrated Radio Frequency Analysis and Control System with CC1101 Transceiver
+### Integrated Radio Frequency Analysis and Control System with CC1101 Transceiver
 This project develops an integrated hardware/software platform for sub-1GHz RF digital signal analysis using the CC1101 transceiver. The solution combines:
 
 Hardware layer: CC1101 module with SPI interface to Arduino
