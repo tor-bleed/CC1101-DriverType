@@ -1,10 +1,13 @@
-# CC1101-DriverType
-Integrated Radio Frequency Analysis and Control System with CC1101 Transceiver
+## CC1101-DriverType
+#Integrated Radio Frequency Analysis and Control System with CC1101 Transceiver
 This project develops an integrated hardware/software platform for sub-1GHz RF digital signal analysis using the CC1101 transceiver. The solution combines:
+
 Hardware layer: CC1101 module with SPI interface to Arduino
 Firmware: Custom AT protocol for remote configuration
 GUI: Python application with intuitive controls and decoding tools
+
 Key features:
+
 ✔ Real-time RF parameter adjustment (frequency, modulation, TX power)
 ✔ Packet capture with signal quality metrics (RSSI/LQI)
 ✔ Advanced decoding (XOR, Base64, ROT13)
